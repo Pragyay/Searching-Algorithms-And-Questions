@@ -1,4 +1,4 @@
-package BinarySearchIn2DArray;
+package SearchIn2DArray;
 
 import java.util.Arrays;
 
